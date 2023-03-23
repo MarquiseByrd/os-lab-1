@@ -1,6 +1,7 @@
 // list/list.h
 // Interface definition for linked list.
-// Marquise Byrd
+// Marquise Byrd @02939181
+
 #include <stdbool.h>
 
 /* Defines the type of the elements in the linked list. You may change this if
