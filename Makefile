@@ -1,8 +1,6 @@
-
 # list/Makefile
-#
 # Makefile for list implementation and test file.
-#
-# <Author>
+#Marquise Byrd @02939181
+
 list: main.c
 	gcc main.c list.c -o list.exe
